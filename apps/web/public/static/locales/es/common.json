@@ -288,7 +288,7 @@
   "cannot_cancel_booking": "No puedes cancelar esta reserva",
   "reschedule_instead": "En su lugar, también puedes reprogramarlo.",
   "event_is_in_the_past": "El evento es en el pasado",
-  "cancelling_event_recurring": "El evento es una instancia de un evento recurrente.",
+  "cancelling_event_recurring": "El evento es un caso de un evento recurrente.",
   "cancelling_all_recurring": "Todas estas son instancias restantes en el evento recurrente.",
   "error_with_status_code_occured": "Se produjo un error con el código de estado {{status}}.",
   "booking_already_cancelled": "Esta reserva ya fue cancelada",
